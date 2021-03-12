@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "description": "Simplenote for Opera Sidebar, Unoffical extension",
+    "message": "Simplenote"
+  },
+  "extDescription": {
+    "description": "This extensions opens the Simplenote app in your sidebar",
+    "message": "Simplenote for Opera Sidebar, Unoffical extension"
+  },
+  "extPanelURL": {
+    "description": "https://app.simplenote.com",
+    "message": "https://app.simplenote.com"
+  }
+}
